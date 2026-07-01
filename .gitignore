@@ -1,0 +1,35 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual Environment
+venv/
+.venv/
+
+# Environment Variables
+.env
+
+# Local Data
+users.json
+notes.json
+
+# Logs
+*.log
+
+# VS Code
+.vscode/
+
+# Build Files
+build/
+dist/
+*.spec
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+
+# Project Files
+tree.txt
